@@ -20,6 +20,6 @@ I really love coding and hope to go far with it.
 ## Get in Touch
 🌐 [Visit my personal website](https://jesseogunlaja.com) to learn more about me and my work.
 
-📧 Feel free to reach out to me at [jesseogunlaja@gmail.com](mailto:jesseogunlaja@gmail.com).
+📧 Feel free to reach out to me at [hello@jesseogunlaja.com](mailto:hello@jesseogunlaja.com).
 
 Let's connect and collaborate to make the tech world even more amazing!
