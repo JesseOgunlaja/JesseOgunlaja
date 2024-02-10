@@ -16,10 +16,9 @@ I really love coding and hope to go far with it.
 ## My Websites
 - [My Personal Website](https://jesseogunlaja.com): A space where I share my thoughts, projects, and experiences in the tech world. Feel free to explore and connect with me!
 - [TaskMaster App](https://taskmasterapp.com): Introducing TaskMaster - your go-to task tracking solution. Stay organized, increase productivity, and achieve your goals with this powerful tool.
+- [My chat app](https://whispernet.chat): A chat app where you can connect with people in real time.
 
 ## Get in Touch
 🌐 [Visit my personal website](https://jesseogunlaja.com) to learn more about me and my work.
 
 📧 Feel free to reach out to me at [hello@jesseogunlaja.com](mailto:hello@jesseogunlaja.com).
-
-Let's connect and collaborate to make the tech world even more amazing!
